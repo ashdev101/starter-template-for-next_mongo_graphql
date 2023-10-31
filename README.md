@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-
+for graphql with inside nextjs integration run following command  : npm install @apollo/server graphql graphql-tag @as-integrations/next
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
